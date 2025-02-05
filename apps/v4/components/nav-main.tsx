@@ -6,7 +6,7 @@ import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
-} from "@/registry/ui/collapsible"
+} from "@/registry/new-york-v4/ui/collapsible"
 import {
   SidebarGroup,
   SidebarGroupLabel,
@@ -16,7 +16,7 @@ import {
   SidebarMenuSub,
   SidebarMenuSubButton,
   SidebarMenuSubItem,
-} from "@/registry/ui/sidebar"
+} from "@/registry/new-york-v4/ui/sidebar"
 
 export function NavMain({
   items,

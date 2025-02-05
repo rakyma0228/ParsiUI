@@ -14,7 +14,7 @@ import {
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@/registry/ui/dropdown-menu"
+} from "@/registry/new-york-v4/ui/dropdown-menu"
 import {
   SidebarGroup,
   SidebarGroupLabel,
@@ -23,7 +23,7 @@ import {
   SidebarMenuButton,
   SidebarMenuItem,
   useSidebar,
-} from "@/registry/ui/sidebar"
+} from "@/registry/new-york-v4/ui/sidebar"
 
 export function NavProjects({
   projects,
